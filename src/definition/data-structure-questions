@@ -64,10 +64,22 @@ What are the different ways of copying an array into another array?
 Four ways: Manually, array.copyOf(), System.arraycopy(), object.clone()
 
 What is difference between an array and a linked list?
+Array is a collection of elements of similar data type. Linked List is an ordered collection of elements of same type,
+which are connected to each other using pointers.
+
 What is DFS and BFS?
+DFS stands for Depth First Search. 2. BFS(Breadth First Search) uses Queue data structure for finding the shortest path
+
 What is Recursion?
+it is a function calls itself during execution.
+
+
 What are linear and non linear data Structures?
+linear: arrange data in a sequential manner; non-linear : arrange data in a hierarchical manner.
 What is Big-(O)-notation?
+Big O notation is a mathematical notation that describes the limiting behavior of a function when the argument tends
+towards a particular value or infinity.
+
 Outlined different kind of sorting algorithm with time complexity?
 
 Draw a table with time complexity in which it will summarize all the data structure feature's advantages and disadvantages.
