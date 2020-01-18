@@ -3,12 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="b533036d-9a6c-47ac-a051-580b895fa47b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/databases/ConnectToMongoDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/databases/ConnectToMongoDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/definition/data-structure-questions" beforeDir="false" afterPath="$PROJECT_DIR$/src/definition/data-structure-questions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problemandsolutions/ArithmeticOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problemandsolutions/ArithmeticOperator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problemandsolutions/ArraySort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problemandsolutions/ArraySort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problemandsolutions/GradeSheet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problemandsolutions/GradeSheet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problemandsolutions/RandomNumberGenerate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problemandsolutions/RandomNumberGenerate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/problems/Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/problems/Anagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/problems/DuplicateWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/problems/DuplicateWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/problems/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/problems/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/problems/Permutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/problems/Permutation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,13 +52,13 @@
       <recent name="G:\SOFTWARE ENGINEERING\PROJECTS\IdeaProjects\PNT\MidTermWeekDaysDecember2019\lib" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SearchElementOfArray">
-    <configuration name="ArithmeticOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problemandsolutions.ArithmeticOperator" />
+  <component name="RunManager" selected="Application.Permutation">
+    <configuration name="Anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.problems.Anagram" />
       <module name="MidTermWeekDaysDecember2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="problemandsolutions.*" />
+          <option name="PATTERN" value="string.problems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArraySort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problemandsolutions.ArraySort" />
+    <configuration name="DuplicateWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.problems.DuplicateWord" />
       <module name="MidTermWeekDaysDecember2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="problemandsolutions.*" />
+          <option name="PATTERN" value="string.problems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GradeSheet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problemandsolutions.GradeSheet" />
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.problems.Palindrome" />
       <module name="MidTermWeekDaysDecember2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="problemandsolutions.*" />
+          <option name="PATTERN" value="string.problems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RandomNumberGenerate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problemandsolutions.RandomNumberGenerate" />
+    <configuration name="Permutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.problems.Permutation" />
       <module name="MidTermWeekDaysDecember2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="problemandsolutions.*" />
+          <option name="PATTERN" value="string.problems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Permutation" />
+        <item itemvalue="Application.Palindrome" />
+        <item itemvalue="Application.DuplicateWord" />
+        <item itemvalue="Application.Anagram" />
         <item itemvalue="Application.SearchElementOfArray" />
-        <item itemvalue="Application.RandomNumberGenerate" />
-        <item itemvalue="Application.GradeSheet" />
-        <item itemvalue="Application.ArraySort" />
-        <item itemvalue="Application.ArithmeticOperator" />
       </list>
     </recent_temporary>
   </component>
@@ -166,25 +164,29 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1358" height="193" key="GridCell.Tab.0.bottom" timestamp="1579282981806">
-      <screen x="0" y="23" width="1440" height="821" />
+    <state width="1358" height="193" key="GridCell.Tab.0.bottom" timestamp="1579374522795">
+      <screen x="0" y="23" width="1440" height="816" />
     </state>
-    <state width="1358" height="193" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1579282981806" />
+    <state width="1358" height="193" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1579374522795" />
+    <state width="1358" height="193" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1579371556914" />
     <state width="1358" height="193" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1579280157213" />
-    <state width="1358" height="193" key="GridCell.Tab.0.center" timestamp="1579282981805">
-      <screen x="0" y="23" width="1440" height="821" />
+    <state width="1358" height="193" key="GridCell.Tab.0.center" timestamp="1579374522795">
+      <screen x="0" y="23" width="1440" height="816" />
     </state>
-    <state width="1358" height="193" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1579282981805" />
+    <state width="1358" height="193" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1579374522795" />
+    <state width="1358" height="193" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1579371556913" />
     <state width="1358" height="193" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1579280157212" />
-    <state width="1358" height="193" key="GridCell.Tab.0.left" timestamp="1579282981804">
-      <screen x="0" y="23" width="1440" height="821" />
+    <state width="1358" height="193" key="GridCell.Tab.0.left" timestamp="1579374522794">
+      <screen x="0" y="23" width="1440" height="816" />
     </state>
-    <state width="1358" height="193" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1579282981804" />
+    <state width="1358" height="193" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1579374522794" />
+    <state width="1358" height="193" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1579371556912" />
     <state width="1358" height="193" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1579280157212" />
-    <state width="1358" height="193" key="GridCell.Tab.0.right" timestamp="1579282981805">
-      <screen x="0" y="23" width="1440" height="821" />
+    <state width="1358" height="193" key="GridCell.Tab.0.right" timestamp="1579374522795">
+      <screen x="0" y="23" width="1440" height="816" />
     </state>
-    <state width="1358" height="193" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1579282981805" />
+    <state width="1358" height="193" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1579374522795" />
+    <state width="1358" height="193" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1579371556914" />
     <state width="1358" height="193" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1579280157213" />
     <state x="208" y="23" width="1024" height="821" key="SettingsEditor" timestamp="1579191767711">
       <screen x="0" y="23" width="1440" height="821" />
