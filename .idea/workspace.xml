@@ -3,12 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="b533036d-9a6c-47ac-a051-580b895fa47b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/problems/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/problems/Factorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/problems/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/problems/Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/problems/FindLowestDifference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/problems/FindLowestDifference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/problems/FindMissingNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/problems/FindMissingNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/problems/MakePyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/problems/MakePyramid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/problems/MergeTwoArraysAndRemoveDuplicatesProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/problems/MergeTwoArraysAndRemoveDuplicatesProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MidTermWeekDaysDecember2019.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MidTermWeekDaysDecember2019.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/mysql-connector-java-5.1.41-bin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/mysql-connector-java-6.0.6-bin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MidTermWeekDaysDecember2019/secret.properties" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MidTermWeekDaysDecember2019/secret.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secret.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/secret.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +41,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -54,13 +53,13 @@
       <recent name="G:\SOFTWARE ENGINEERING\PROJECTS\IdeaProjects\PNT\MidTermWeekDaysDecember2019\lib" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MergeTwoArraysAndRemoveDuplicatesProgram">
-    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="math.problems.Fibonacci" />
+  <component name="RunManager" selected="Application.ConnectToMongoDB">
+    <configuration name="ConnectToMongoDB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="databases.ConnectToMongoDB" />
       <module name="MidTermWeekDaysDecember2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="math.problems.*" />
+          <option name="PATTERN" value="databases.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindLowestDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="math.problems.FindLowestDifference" />
+    <configuration name="ConnectToSqlDB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="databases.ConnectToSqlDB" />
       <module name="MidTermWeekDaysDecember2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="math.problems.*" />
+          <option name="PATTERN" value="databases.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindMissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="math.problems.FindMissingNumber" />
+    <configuration name="CsvReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codelab.status.CsvReader" />
       <module name="MidTermWeekDaysDecember2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="math.problems.*" />
+          <option name="PATTERN" value="codelab.status.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MakePyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="math.problems.MakePyramid" />
+    <configuration name="Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.Numbers" />
       <module name="MidTermWeekDaysDecember2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="math.problems.*" />
+          <option name="PATTERN" value="algorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeTwoArraysAndRemoveDuplicatesProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="math.problems.MergeTwoArraysAndRemoveDuplicatesProgram" />
+    <configuration name="ReadExcelFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="excelreadandwrite.ReadExcelFile" />
       <module name="MidTermWeekDaysDecember2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="math.problems.*" />
+          <option name="PATTERN" value="excelreadandwrite.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MergeTwoArraysAndRemoveDuplicatesProgram" />
-        <item itemvalue="Application.MakePyramid" />
-        <item itemvalue="Application.FindMissingNumber" />
-        <item itemvalue="Application.FindLowestDifference" />
-        <item itemvalue="Application.Fibonacci" />
+        <item itemvalue="Application.ConnectToMongoDB" />
+        <item itemvalue="Application.ConnectToSqlDB" />
+        <item itemvalue="Application.Numbers" />
+        <item itemvalue="Application.CsvReader" />
+        <item itemvalue="Application.ReadExcelFile" />
       </list>
     </recent_temporary>
   </component>
@@ -166,40 +165,65 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1358" height="158" key="GridCell.Tab.0.bottom" timestamp="1579464199985">
+    <state x="464" y="302" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1579557598348">
       <screen x="0" y="23" width="1440" height="816" />
     </state>
-    <state width="1358" height="158" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1579464199985" />
-    <state width="1358" height="193" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1579371556914" />
+    <state x="464" y="302" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.23.1440.816@0.23.1440.816" timestamp="1579557598348" />
+    <state width="1358" height="156" key="GridCell.Tab.0.bottom" timestamp="1579647610402">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1358" height="241" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1579560209089" />
+    <state width="1358" height="241" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1579646672822" />
     <state width="1358" height="193" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1579280157213" />
-    <state width="1358" height="158" key="GridCell.Tab.0.center" timestamp="1579464199984">
-      <screen x="0" y="23" width="1440" height="816" />
+    <state width="1358" height="156" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1579647610402" />
+    <state width="1358" height="156" key="GridCell.Tab.0.center" timestamp="1579647610401">
+      <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state width="1358" height="158" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1579464199984" />
-    <state width="1358" height="193" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1579371556913" />
+    <state width="1358" height="241" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1579560209088" />
+    <state width="1358" height="241" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1579646672822" />
     <state width="1358" height="193" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1579280157212" />
-    <state width="1358" height="158" key="GridCell.Tab.0.left" timestamp="1579464199984">
-      <screen x="0" y="23" width="1440" height="816" />
+    <state width="1358" height="156" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1579647610401" />
+    <state width="1358" height="156" key="GridCell.Tab.0.left" timestamp="1579647610401">
+      <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state width="1358" height="158" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1579464199984" />
-    <state width="1358" height="193" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1579371556912" />
+    <state width="1358" height="241" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1579560209088" />
+    <state width="1358" height="241" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1579646672822" />
     <state width="1358" height="193" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1579280157212" />
-    <state width="1358" height="158" key="GridCell.Tab.0.right" timestamp="1579464199984">
-      <screen x="0" y="23" width="1440" height="816" />
+    <state width="1358" height="156" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1579647610401" />
+    <state width="1358" height="156" key="GridCell.Tab.0.right" timestamp="1579647610402">
+      <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state width="1358" height="158" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1579464199984" />
-    <state width="1358" height="193" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1579371556914" />
+    <state width="1358" height="241" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1579560209089" />
+    <state width="1358" height="241" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1579646672822" />
     <state width="1358" height="193" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1579280157213" />
-    <state x="208" y="23" width="1024" height="821" key="SettingsEditor" timestamp="1579191767711">
+    <state width="1358" height="156" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1579647610402" />
+    <state width="1358" height="241" key="GridCell.Tab.1.bottom" timestamp="1579646672823">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
-    <state x="208" y="23" width="1024" height="816" key="SettingsEditor/0.23.1440.816@0.23.1440.816" timestamp="1579137524733" />
-    <state x="208" y="23" width="1024" height="821" key="SettingsEditor/0.23.1440.821@0.23.1440.821" timestamp="1579191767711" />
-    <state x="376" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1579275519899">
+    <state width="1358" height="241" key="GridCell.Tab.1.bottom/0.23.1440.821@0.23.1440.821" timestamp="1579646672823" />
+    <state width="1358" height="241" key="GridCell.Tab.1.center" timestamp="1579646672823">
       <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1358" height="241" key="GridCell.Tab.1.center/0.23.1440.821@0.23.1440.821" timestamp="1579646672823" />
+    <state width="1358" height="241" key="GridCell.Tab.1.left" timestamp="1579646672823">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1358" height="241" key="GridCell.Tab.1.left/0.23.1440.821@0.23.1440.821" timestamp="1579646672823" />
+    <state width="1358" height="241" key="GridCell.Tab.1.right" timestamp="1579646672823">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1358" height="241" key="GridCell.Tab.1.right/0.23.1440.821@0.23.1440.821" timestamp="1579646672823" />
+    <state x="208" y="23" width="1101" height="816" key="SettingsEditor" timestamp="1579647278421">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="208" y="23" width="1101" height="816" key="SettingsEditor/0.23.1440.816@0.23.1440.816" timestamp="1579558253530" />
+    <state x="208" y="23" width="1024" height="821" key="SettingsEditor/0.23.1440.821@0.23.1440.821" timestamp="1579191767711" />
+    <state x="208" y="23" key="SettingsEditor/0.23.1440.823@0.23.1440.823" timestamp="1579647278421" />
+    <state x="376" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1579647333017">
+      <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="376" y="260" key="com.intellij.ide.util.TipDialog/0.23.1440.821@0.23.1440.821" timestamp="1579275519899" />
-    <state x="376" y="261" key="com.intellij.ide.util.TipDialog/0.23.1440.823@0.23.1440.823" timestamp="1579143426415" />
+    <state x="376" y="261" key="com.intellij.ide.util.TipDialog/0.23.1440.823@0.23.1440.823" timestamp="1579647333017" />
     <state width="600" height="424" key="javadoc.popup" timestamp="1579278235683">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
